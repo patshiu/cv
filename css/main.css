@@ -155,7 +155,7 @@ textarea {
    #browser-left{
      flex: none;
      width: 5px;
-     background-image: url('../images/LEFT-TILE.png');
+     background-image: url('../images/LEFT-TILE.png?v2');
      background-repeat: repeat-y;
    }
    #browser-right{

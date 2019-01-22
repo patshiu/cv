@@ -114,6 +114,7 @@ textarea {
    }
    #faux-browser-upper {
      display: flex;
+     min-width: 591px;
    }
    #top-left {
      flex: none;
@@ -139,6 +140,7 @@ textarea {
    #faux-browser-lower {
      display: flex;
      flex-direction: column;
+     min-width: 591px;
    }
    #browser-middle-row {
      display: flex;

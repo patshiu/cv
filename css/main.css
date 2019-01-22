@@ -120,7 +120,7 @@ textarea {
      flex: none;
      width: 468px;
      height: 113px;
-     background-image: url('../images/TOP-LEFT.png');
+     background-image: url('../images/TOP-LEFT.png?v2');
      background-repeat: no-repeat;
    }
    #top-middle{

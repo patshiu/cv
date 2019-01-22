@@ -120,7 +120,7 @@ textarea {
      width: 468px;
      height: 113px;
      background-image: url(../images/TOP-LEFT.png);
-      background-repeat: no-repeat;
+     background-repeat: no-repeat;
    }
    #top-middle{
      flex: 1 1 auto;
@@ -153,9 +153,10 @@ textarea {
      border: 0;
    }
    #browser-left{
-     flex: none;
+     flex: 1 1 auto;
      width: 5px;
      background-image: url(../images/LEFT-TILE.png);
+     background-repeat: repeat-y;
    }
    #browser-right{
      width: 20px;

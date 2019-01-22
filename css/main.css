@@ -119,21 +119,21 @@ textarea {
      flex: none;
      width: 468px;
      height: 113px;
-     background-image: url(../images/TOP-LEFT.png);
+     background-image: url('../images/TOP-LEFT.png');
      background-repeat: no-repeat;
    }
    #top-middle{
      flex: 1 1 auto;
      height: 113px;
      background-color: #dedbde;
-     background-image: url(../images/TOP-TILE.png);
+     background-image: url('../images/TOP-TILE.png');
      background-repeat: repeat-x;
    }
   #top-right{
      flex: none;
      width: 123px;
      height: 113px;
-     background-image: url(../images/TOP-RIGHT.png);
+     background-image: url('../images/TOP-RIGHT.png');
      background-repeat: no-repeat;
    }
    #faux-browser-lower {
@@ -155,7 +155,7 @@ textarea {
    #browser-left{
      flex: none;
      width: 5px;
-     background-image: url(../images/LEFT-TILE.png);
+     background-image: url('../images/LEFT-TILE.png');
      background-repeat: repeat-y;
    }
    #browser-right{
@@ -167,19 +167,19 @@ textarea {
      flex: none;
      width: 20px;
      height: 33px;
-     background-image: url(../images/RIGHT-TOP.png);
+     background-image: url('../images/RIGHT-TOP.png');
      background-repeat: no-repeat;
    }
    #browser-right-tile {
      flex: 1 1 auto;
-     background-image: url(../images/RIGHT-TILE.png);
+     background-image: url('../images/RIGHT-TILE.png');
      background-repeat: repeat-y;
    }
    #browser-right-bottom {
      flex: none;
      width: 20px;
      height: 15px;
-     background-image: url(../images/RIGHT-BOTTOM.png);
+     background-image: url('../images/RIGHT-BOTTOM.png');
      background-repeat: no-repeat;
    }
 
@@ -192,20 +192,20 @@ textarea {
      flex: none;
      width: 45px;
      height: 20px;
-     background-image: url(../images/BOTTOM-LEFT.png);
+     background-image: url('../images/BOTTOM-LEFT.png');
       background-repeat: no-repeat;
    }
    #bottom-middle{
      flex: 1 1 auto;
      background-color: #dedbde;
-     background-image: url(../images/BOTTOM-TILE.png);
+     background-image: url('../images/BOTTOM-TILE.png');
      background-repeat: repeat-x;
    }
   #bottom-right{
      flex: none;
      width: 59px;
      height: 20px;
-     background-image: url(../images/BOTTOM-RIGHT.png);
+     background-image: url('../images/BOTTOM-RIGHT.png');
      background-repeat: no-repeat;
    }
 
